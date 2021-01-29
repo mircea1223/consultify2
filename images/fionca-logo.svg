@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199.672" height="52.03" viewBox="0 0 199.672 52.03">
+  <g id="Group_2" data-name="Group 2" transform="translate(-968.328 -749)">
+    <path id="Path_1" data-name="Path 1" d="M1116.929,603.03l12.917-12.971c2.153-2.261,4.9.807,4.9.807l12.164,11.895,5.759-5.328-13.51-14.048s-6.028-7.1-11.141-2.368S1116.929,592,1116.929,592a6.863,6.863,0,0,0-2.583,5.679A7.724,7.724,0,0,0,1116.929,603.03Z" transform="translate(-146 178)" fill="#f8952c"/>
+    <path id="Path_2" data-name="Path 2" d="M1154.912,595.031l5.3-4.968-11.51-12.586s-6.659-7.877-10.926-5.615a12.041,12.041,0,0,0-5.555,5.615,19.322,19.322,0,0,1,5.032.943c2.1.807,8.639,7.226,8.639,7.226C1148.628,589.04,1154.912,595.031,1154.912,595.031Z" transform="translate(-146 178)" fill="#f8952c"/>
+    <path id="Path_3" data-name="Path 3" d="M1150.066,579.388l-12.917,12.971c-2.153,2.261-4.9-.807-4.9-.807l-12.164-11.895-5.759,5.328,13.51,14.048s6.028,7.1,11.141,2.368,11.088-10.98,11.088-10.98a6.863,6.863,0,0,0,2.583-5.679A7.724,7.724,0,0,0,1150.066,579.388Z" transform="translate(-133.456 190.065)" fill="#f8952c"/>
+    <path id="Path_4" data-name="Path 4" d="M1137.52,571.453l-5.3,4.968,11.51,12.586s6.659,7.877,10.926,5.615a12.041,12.041,0,0,0,5.555-5.615,19.322,19.322,0,0,1-5.032-.943c-2.1-.807-8.639-7.226-8.639-7.226C1143.8,577.444,1137.52,571.453,1137.52,571.453Z" transform="translate(-158.893 205.999)" fill="#f8952c"/>
+    <text id="FIONCA" transform="translate(1028 782)" fill="#063c83" font-size="36" font-family="Arimo-Bold, Arimo" font-weight="700" letter-spacing="0.009em"><tspan x="0" y="0">FIONCA</tspan></text>
+    <text id="INSURANCE_COMPANY" data-name="INSURANCE COMPANY" transform="translate(1029 797)" fill="#202020" font-size="12" font-family="Arimo-Regular, Arimo" letter-spacing="0.009em"><tspan x="0" y="0">INSURANCE COMPANY</tspan></text>
+  </g>
+</svg>
