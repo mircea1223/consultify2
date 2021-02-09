@@ -2779,6 +2779,12 @@ h4 {
   background-color: #fff;
 }
 
+.services-link {
+  color: #000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
 @media screen and (max-width: 991px) {
   .cta-bar {
     -webkit-box-orient: vertical;
